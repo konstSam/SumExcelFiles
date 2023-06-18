@@ -1,5 +1,3 @@
-#  WORKS as needed.
-
 import os
 import locale
 import openpyxl
